@@ -1,4 +1,4 @@
-<div style="text-aling: center;">
+<div style="text-align: center;">
   Hi there
 
 I'm a Computer Science student at the Technological University of the Philippines, passionate about front-end development, web design, graphic design, and layout artistry.
