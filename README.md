@@ -30,5 +30,7 @@
       <img width="24" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
    </p>
    <h3>Stats 📈:</h3>
-   <img src="https://github-readme-stats.vercel.app/api?username=finnsatoshi03&show_icons=true&count_private=true" alt="finnsatoshi03" />
+   <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=finnsatoshi03&show_icons=true&count_private=true" alt="finnsatoshi03" />
+   </p>
 </div>
