@@ -14,18 +14,14 @@
    <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="25" height="25" />
-      <img width="24" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-      <img width="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-      <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="nextjs" width="25" height="25" />
-      <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="react-native" width="25" />
+      <img src=https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" alt="nextjs" width="25" height="25" />
       <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" alt="electron js" width="25" height="25" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="25" height="25" />
       <img width="24" src="http://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
       <img width="24" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
       <img width="24" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-      <img width="24" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
       <img width="24" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase"/>
       <img width="24" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
       <img width="24" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
